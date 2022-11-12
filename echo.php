@@ -1,2 +1,2 @@
 <?php
-echo "hello php world \n"
+echo "hello php world \n";
